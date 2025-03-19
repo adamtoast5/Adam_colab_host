@@ -1,0 +1,30 @@
+Category,Peak Load (Tons),Morning,Afternoon,Evening,Night
+Retail - Freestanding,117.6,35.28,117.6,82.32,23.52
+Hotel - Limited Service,135.8,108.64,135.8,122.22,95.06
+Residential - Wrap Condo,221.25,132.75,221.25,177,88.5
+Retail - Lifestyle South,229.6,68.88,229.6,160.72,45.92
+Hotel - Upscale,276.75,221.4,276.75,249.075,193.725
+Residential - Urban Single Family,317.5,190.5,317.5,254,127
+Residential - Townhomes,384.6,230.76,384.6,307.68,153.84
+Retail - Neighborhood,411.2,123.36,411.2,287.84,82.24
+Retail - Lifestyle North,411.2,123.36,411.2,287.84,82.24
+Civic,638.15,319.075,638.15,446.705,191.445
+Residential - Walk-Up Condo,696,417.6,696,556.8,278.4
+Residential - 12 Story Midrise,740,444,740,592,296
+Office - 3 Story Lab/Tech,757.29,302.916,757.29,454.374,75.729
+Residential - Walk-Up Apartments,842.9,505.74,842.9,674.32,337.16
+Retail - Ground Floor Mixed Use,1157.1,347.13,1157.1,809.97,231.42
+Office - 5 Story Commercial,1467,586.8,1467,880.2,146.7
+Institution/Anchor Tenant,1960.2,980.1,1960.2,1372.14,588.06
+Residential - 6 Story Podium,4302.42,2581.452,4302.42,3441.936,1720.968
+Office - 10 Story Commercial,5181.5,2072.6,5181.5,3108.9,518.15
+Residential - 4 Story Wrap Apartments,5365.25,3219.15,5365.25,4292.2,2146.1
+Office - 8 Story Commercial,9229.3,3691.72,9229.3,5537.58,922.93
+Total Load,34842.61,16703.213,34842.61,24095.82,8345.107
+,,,,,
+"Estimates from pom spreadsheet. Different estimates based on usage patterns, derived from real-world assumptions",,,,,
+"Night"": {""Residential"": 0.4, ""Office"": 0.1, ""Institutional"": 0.3, ""Retail"": 0.2, ""Hotel"": 0.7, ""Civic"": 0.3}",,,,,
+"Morning: {  ""Residential"": 0.6, ""Office"": 0.4, ""Institutional"": 0.5, ""Retail"": 0.3, ""Hotel"": 0.8, ""Civic"": 0.5 }",,,,,
+"Afternoon: { ""Residential"": 1.0, ""Office"": 1.0, ""Institutional"": 1.0, ""Retail"": 1.0, ""Hotel"": 1.0, ""Civic"": 1.0}",,,,,
+"Evening: { ""Residential"": 0.8, ""Office"": 0.6, ""Institutional"": 0.7, ""Retail"": 0.7, ""Hotel"": 0.9, ""Civic"": 0.7}",,,,,
+,,,,,
